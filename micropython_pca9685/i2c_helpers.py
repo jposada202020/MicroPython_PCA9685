@@ -139,6 +139,7 @@ class RegisterStruct:
         mem_value = struct.pack(self.format, value)
         obj._i2c.writeto_mem(obj._address, self.register, mem_value)
 
+
 class _BoundStructArray:
     """
     Array object that `StructArray` constructs on demand.
@@ -211,8 +212,10 @@ class StructArray:
         obj,
         objtype=None,
     ) -> _BoundStructArray:
-        # We actually can't handle the indexing ourselves due to data descriptor limits. So, we return
-        # an object that can instead. This object is bound to the object passed in here by its
+        # We actually can't handle the indexing ourselves due to
+        # data descriptor limits. So, we return
+        # an object that can instead. This object is bound to the
+        # object passed in here by its
         # initializer and then cached on the object itself. That way its lifetime is tied to the
         # lifetime of the object itself.
         if not hasattr(obj, self.array_id):

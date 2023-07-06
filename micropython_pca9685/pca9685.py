@@ -17,10 +17,7 @@ Driver for the PCA9685 PWM control IC. Its commonly used to control servos, leds
 """
 
 import time
-import struct
-import math
-from micropython import const
-from micropython_pca9685.i2c_helpers import CBits, RegisterStruct, StructArray
+from micropython_pca9685.i2c_helpers import RegisterStruct, StructArray
 
 
 class PWMChannel:

@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["micropython_pca9685/examples/pca9685_simpletest.py", "github:jposada202020/MicroPython_PCA9685/examples/pca9685_simpletest.py"],
+    ["micropython_pca9685/examples/pca865_servo_test.py", "github:jposada202020/MicroPython_PCA9685/examples/pca865_servo_test.py"]
+  ],
+  "version": "0.1"
+}

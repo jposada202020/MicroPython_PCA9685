@@ -25,7 +25,11 @@ Introduction
 
 MicroPython Driver for the PCA9685
 This include the a servo helper. This library is taken from the
-adafruit_circuitpython_motor library and adapted to MicroPython
+adafruit_circuitpython_motor library and adapted to MicroPython.
+
+If you are interested in a great MicroPython PCA9685 library take a look at
+https://github.com/pappavis/micropython-pca9685
+
 
 
 Installing with mip
