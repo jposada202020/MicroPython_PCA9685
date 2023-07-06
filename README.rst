@@ -2,8 +2,8 @@ Introduction
 ============
 
 
-.. image:: https://readthedocs.org/projects/micropython-pca9685/badge/?version=latest
-    :target: https://micropython-pca9685.readthedocs.io/en/latest/
+.. image:: https://readthedocs.org/projects/micropython-pca9685-mp/badge/?version=latest
+    :target: https://micropython-pca9685-mp.readthedocs.io/en/latest/
     :alt: Documentation Status
 
 
