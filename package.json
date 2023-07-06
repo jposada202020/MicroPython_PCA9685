@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["micropython_pca9685/__init__.py", "github:jposada202020/MicroPython_PCA9685/micropython_pca9685/__init__.py"],
+    ["micropython_pca9685/i2c_helpers.py", "github:jposada202020/MicroPython_PCA9685/micropython_pca9685/i2c_helpers.py"],
+    ["micropython_pca9685/pca9685.py", "github:jposada202020/MicroPython_PCA9685/micropython_pca9685/pca9685.py"]
+  ],
+  "version": "0.1"
+}
