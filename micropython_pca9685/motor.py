@@ -144,7 +144,7 @@ class ContinuousServo(_BaseServo):
             raise ValueError("Continuous servos cannot spin freely")
         self.fraction = (value + 1) / 2
 
-    def __enter__(self) -> "ContinuousServo":
+    def __enter__(self):
         return self
 
     def __exit__(

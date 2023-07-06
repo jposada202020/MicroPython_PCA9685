@@ -8,7 +8,8 @@
 ================================================================================
 
 
-Driver for the PCA9685 PWM control IC. Its commonly used to control servos, leds and motors.
+MicroPython Driver for the PCA9685 PWM control IC. Its commonly used to control
+servos, leds and motors.
 
 
 * Author(s): Radomir Dopieralski, Scott Shawcroft, Jose D. Montoya

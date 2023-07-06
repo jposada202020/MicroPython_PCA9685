@@ -14,7 +14,7 @@ Based on
 
 * adafruit_register.i2c_struct. Author(s): Scott Shawcroft
 * adafruit_register.i2c_bits.  Author(s): Scott Shawcroft
-* adafruit_register.i2c_strucarray.  Author(s): Scott Shawcroft
+* adafruit_register.i2c_structarray.  Author(s): Scott Shawcroft
 
 MIT License
 
