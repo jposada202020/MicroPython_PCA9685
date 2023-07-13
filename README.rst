@@ -2,8 +2,8 @@ Introduction
 ============
 
 
-.. image:: https://readthedocs.org/projects/micropython-pca9685/badge/?version=latest
-    :target: https://micropython-pca9685.readthedocs.io/en/latest/
+.. image:: https://readthedocs.org/projects/micropython-pca9685-mp/badge/?version=latest
+    :target: https://micropython-pca9685-mp.readthedocs.io/en/latest/
     :alt: Documentation Status
 
 
@@ -24,7 +24,7 @@ Introduction
     :alt: Code Style: Black
 
 MicroPython Driver for the PCA9685
-This include the a servo helper. This library is taken from the
+This include the a servo helper. The servo helper is taken from the
 adafruit_circuitpython_motor library and adapted to MicroPython.
 
 If you are interested in a great MicroPython PCA9685 library take a look at
