@@ -86,7 +86,7 @@ To install in a virtual environment in your current project:
 
     mkdir project-name && cd project-name
     python3 -m venv .venv
-    source .env/bin/activate
+    source .venv/bin/activate
     pip3 install micropython-pca9685
 
 
